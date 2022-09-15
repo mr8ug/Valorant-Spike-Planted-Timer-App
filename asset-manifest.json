@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Valorant-Spike-Planted-Timer-App/static/css/main.bc57b9a7.css",
+    "main.js": "/Valorant-Spike-Planted-Timer-App/static/js/main.eaad51f7.js",
+    "static/js/787.7dc501e1.chunk.js": "/Valorant-Spike-Planted-Timer-App/static/js/787.7dc501e1.chunk.js",
+    "static/media/valorant-agents.jpg": "/Valorant-Spike-Planted-Timer-App/static/media/valorant-agents.fa7bebcff2a6f3e8a998.jpg",
+    "static/media/battlepass.webm": "/Valorant-Spike-Planted-Timer-App/static/media/battlepass.259da24bad09ea2b436b.webm",
+    "static/media/valorant_spike_painted.glb": "/Valorant-Spike-Planted-Timer-App/static/media/valorant_spike_painted.31919e57c8d6d31d40ca.glb",
+    "index.html": "/Valorant-Spike-Planted-Timer-App/index.html",
+    "main.bc57b9a7.css.map": "/Valorant-Spike-Planted-Timer-App/static/css/main.bc57b9a7.css.map",
+    "main.eaad51f7.js.map": "/Valorant-Spike-Planted-Timer-App/static/js/main.eaad51f7.js.map",
+    "787.7dc501e1.chunk.js.map": "/Valorant-Spike-Planted-Timer-App/static/js/787.7dc501e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc57b9a7.css",
+    "static/js/main.eaad51f7.js"
+  ]
+}
